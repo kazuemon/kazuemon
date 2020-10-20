@@ -38,7 +38,7 @@
 
 ## Works
 
-- ボーイスカウトで所属している団のホームページ運用担当 (2019年頃〜) [^1]
+- ボーイスカウトで所属している団のホームページ運用担当 (2019年頃〜) 
 - ClubCraftersでコミュニティーサービス「MCBEPortal」のフロント・バックエンド開発
 - 同人イベント「マイフェス2020」企画総括・プロジェクトマネージャー (2020/07～2020/09)
 - 同人イベント「マイフェス2020」広報メンバーとしてWebサイトの制作・運用 (2020/07〜)
@@ -50,5 +50,3 @@
 - Youtube [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
 - Misskey [@kazuemon](https://misskey.io/@kazuemon)
 - Blog [かずえ日誌](https://kazuemon.hatenablog.jp)
-
-[^1]: 要出典
