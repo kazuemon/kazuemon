@@ -10,7 +10,7 @@
 - バンドリとホロライブのオタク
   - バンドリ ... 牛込りみ・市ヶ谷有咲 推し (2018/02～)
   - ホロライブ ... ほぼ箱推し (戌神ころね・猫又おかゆ) 推し (2020/04～)
-- 東京電機大学工学部情報通信工学科 に進学予定
+- 東京電機大学 工学部 情報通信工学科(EC科) 21期生
 
 ## Skills
 
@@ -46,6 +46,7 @@
 ## SNS & Contact
 
 - Twitter [@kazuemon_0602](https://twitter.com/kazuemon_0602)
+  - **2021年4月より新アカウント移行** → [@kazuemon0602](https://twitter.com/kazuemon0602)
 - Discord かずえもん#5981
 - Youtube [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
 - Misskey [@kazuemon](https://misskey.io/@kazuemon)
