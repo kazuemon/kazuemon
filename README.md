@@ -2,6 +2,8 @@
 
 何の取り柄もない普通の高校3年生です。
 
+[![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## Profile
 
 - 男👨
@@ -39,10 +41,10 @@
 ## Works
 
 - ボーイスカウトで所属している団のホームページ運用担当 (2018年初旬〜) 
-- ClubCraftersでコミュニティーサービス「MCBEPortal」のフロント・バックエンド開発
 - 同人イベント「マイフェス2020」 企画総括・プロジェクトマネージャー (2020/07～2020/09)
 - 同人イベント「マイフェス2020」 広報メンバーとしてWebサイトの制作・運用 (2020/07〜2020/12)
 - 同人イベント「マイフェス2020」 電子チケットWebアプリケーション デザイン・開発・運用 (2020/12)
+- イベント・同人総合プラットフォーム 「N-Pla」 開発統括 (2020/12～)
 
 ## SNS & Contact
 
