@@ -44,12 +44,14 @@
 - 同人イベント「マイフェス2020」 企画総括・プロジェクトマネージャー (2020/07～2020/09)
 - 同人イベント「マイフェス2020」 広報メンバーとしてWebサイトの制作・運用 (2020/07〜2020/12)
 - 同人イベント「マイフェス2020」 電子チケットWebアプリケーション デザイン・開発・運用 (2020/12)
+  - [記事書きました](https://qiita.com/kazuemon/items/9b6436b01e155151b3d1)
 - イベント・同人総合プラットフォーム 「N-Pla」 開発統括 (2020/12～)
+  - [公式Twitter (@npla_jp)](https://twitter.com/npla_jp)
 
 ## SNS & Contact
 
 - Twitter [@kazuemon_0602](https://twitter.com/kazuemon_0602)
-  - **2021年4月より新アカウント移行** → [@kazuemon0602](https://twitter.com/kazuemon0602)
+  - **新アカウント移行予定** → [@kazuemon0602](https://twitter.com/kazuemon0602)
 - Discord かずえもん#5981
 - Youtube [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
 - Misskey [@kazuemon](https://misskey.io/@kazuemon)
