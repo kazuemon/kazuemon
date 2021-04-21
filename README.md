@@ -35,8 +35,9 @@
 ## Belongs
 
 - ClubCrafters (同人グループ/リーダー)
-- N-Point (同人グループ/メンバー)
+- [N-Point](https://npjp.net) (同人グループ/メンバー)
 - マイフェス2020実行委員会 (同人イベント主催/メンバー)
+- [SuperStarMine](https://superstarmine.ga) (学生団体/メンバー)
 
 ## Works
 
@@ -47,7 +48,7 @@
   - [記事書きました](https://qiita.com/kazuemon/items/9b6436b01e155151b3d1)
 - イベント・同人総合プラットフォーム 「N-Pla」 開発統括 (2020/12～)
   - [公式Twitter (@npla_jp)](https://twitter.com/npla_jp)
-- TDU21 Discordキャンパス(非公式) 管理 (2020/12～)
+- TDU21 非公式Discordキャンパス 管理 (2020/12～)
 
 ## SNS & Contact
 
