@@ -19,8 +19,9 @@
 - **HTML, CSS**  
   デザイン学習中。
 
-- **Vue.js, Nuxt.js**  
+- **Nuxt.js(Vue.js), Next.js(React)**  
   自身のポートフォリオサイトや所属グループのサービスを現在制作中。
+  Next.js(React) は最近触り始めました。
   
 - **ステージPA・音響**  
   高校の部活動にてPA長、文化祭ライブと後夜祭ライブにて機材配線・PAオペレーションを担当。
@@ -35,7 +36,8 @@
 
 ## Belongs
 
-- ClubCrafters (同人グループ/リーダー)
+- Anitopia(WIP) (設計・開発)
+- N-Pla (https://twitter.com/npla_jp) (開発)
 - [SuperStarMine](https://superstarmine.ga) (学生団体/メンバー)
 
 ### 過去に所属していた団体
