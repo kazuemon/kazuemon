@@ -36,14 +36,21 @@
 
 ## Belongs
 
-- Anitopia(WIP) (設計・開発)
-- N-Pla (https://twitter.com/npla_jp) (開発)
-- [SuperStarMine](https://superstarmine.ga) (学生団体/メンバー)
+- [Anitopia](https://twitter.com/anitopia_me) 
+  - システムの設計、開発、企画など全般
+- [N-Pla](https://twitter.com/npla_jp)
+  - Webサイトのデザイン など
+- [SuperStarMine](https://superstarmine.com)
+  - Webサイトのデザイン など
+- [obniz Inc.](https://obniz.com/)
+  - 学生アルバイト
 
 ### 過去に所属していた団体
 
-- [N-Point](https://npjp.net) (同人グループ/メンバー)
-- マイフェス2020実行委員会 (同人イベント主催/メンバー)
+- [N-Point](https://npjp.net)
+  - メンバー
+- マイフェス2020実行委員会
+  - 運営支援、Webサイト管理、Twitter広報、アプリケーション開発・運用 など
 
 ## Works
 
