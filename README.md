@@ -71,3 +71,4 @@
 - Youtube [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
 - Misskey [@kazuemon](https://misskey.io/@kazuemon)
 - Blog [かずえ日誌](https://kazuemon.hatenablog.jp)
+- Wantedly [@kazuemon](https://www.wantedly.com/id/kazuemon)
