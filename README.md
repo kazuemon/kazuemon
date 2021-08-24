@@ -37,12 +37,16 @@
 ## Belongs
 
 - [Anitopia](https://twitter.com/anitopia_me) 
+  - 2021年8月～
   - システムの設計、開発、企画など全般
 - [N-Pla](https://twitter.com/npla_jp)
+  - 2021年4月～
   - Webサイトのデザイン など
 - [SuperStarMine](https://superstarmine.com)
+  - 2021年4月～
   - Webサイトのデザイン など
 - [obniz Inc.](https://obniz.com/)
+  - 2021年8月～
   - 学生アルバイト
 
 ### 過去に所属していた団体
