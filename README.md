@@ -22,6 +22,11 @@
   - のりプロ (2020/11～)
     - みしろちゃんがめっちゃすこ。唯一メンバー入ってます。
 
+## Sponsor
+
+活動を支援してくださるスポンサーを募集中です  
+:point_right: [Become a sponsor :coffee:](https://github.com/sponsors/kazuemon)
+
 ## Skills
 
 ### :computer: Webアプリケーション開発
