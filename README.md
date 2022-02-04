@@ -24,47 +24,44 @@
 
 ## Skills
 
-- **HTML, CSS**  
-  デザイン学習中。
+### :computer: フロントエンド / Next.js(React), HTML, CSS
+自身のポートフォリオサイトや所属グループのサービスを現在制作中。  
+Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりました。
 
-- フロントエンド: **Next.js(React)**  
-  自身のポートフォリオサイトや所属グループのサービスを現在制作中。  
-  Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりました。
-  
-- バックエンド: **frourio, Prisma**  
-  2022年からバックエンドも触り始めました。  
-  最近は GraphQL も学習しています。  
-  
-- **ステージPA, 音響**  
-  高校の部活動にてPA長、文化祭ライブと後夜祭ライブにて機材配線・PAオペレーションを担当。  
-  大学でも放送委員会で音響を担当しています。
-  
-- **Piano, Keyboard**  
-  一応3歳よりピアノを習っていますが、楽譜を早く読むのは苦手で、耳コピやコード進行を中心に学習中。  
-  高校の部活動にてキーボードパートを担当、バンドとして県大会・全国大会等に出場させていただいておりました。  
-  習い事としてのピアノは大学進学のタイミングで辞めてしまいましたが、音楽は引き続きやってます。
+### :computer: バックエンド / frourio, Prisma
+2022年からバックエンドも触り始めました。  
+最近は GraphQL も学習しています。  
 
-- **Aviutl, OBS**  
-  自身の活動の一つとしてYoutubeへの動画投稿・ゲームや弾き語りの配信をしています。
+### :level_slider: ステージPA・音響
+高校の部活動にてPA長、文化祭ライブと後夜祭ライブにて機材配線・PAオペレーションを担当。  
+大学でも放送委員会で音響班長を担当しています。
+  
+### :musical_score: ピアノ・キーボード
+一応3歳よりピアノを習っていますが、楽譜を早く読むのは苦手で、耳コピやコード進行を中心に学習中。  
+高校の部活動にてキーボードパートを担当、バンドとして県大会・全国大会等に出場させていただいておりました。  
+習い事としてのピアノは大学進学のタイミングで辞めてしまいましたが、音楽は引き続きやってます。
+
+### :clapper: 動画編集 / Aviutl, OBS
+自身の活動の一つとしてYoutubeへの動画投稿・ゲームや弾き語りの配信をしています。
 
 ## Belongs
 
-- [SuperStarMine](https://superstarmine.com)
+- :video_game: [SuperStarMine](https://superstarmine.com)
   - 2021年4月～
   - Webサイトのデザイン など
-- [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
+- :level_slider: [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
   - 2021年4月～
-  - 音響、システム管理
-- [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
+  - 音響班長、システム管理担当
+- :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
   - 2020年12月～
   - モデレーター、Webサイト管理、イベント企画など
-- [obniz Inc.](https://obniz.com/)
+- :office: [obniz Inc.](https://obniz.com/)
   - 2021年8月～
   - 学生アルバイト
-- [Anitopia](https://twitter.com/anitopia_me) 
+- :tv: [Anitopia](https://twitter.com/anitopia_me)
   - 2021年8月～
   - システムの設計、開発、企画など全般
-- [N-Pla](https://twitter.com/npla_jp)
+- :tada: [N-Pla](https://twitter.com/npla_jp)
   - 2021年4月～
   - Webサイトのデザイン など
 
