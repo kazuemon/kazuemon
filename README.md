@@ -69,14 +69,15 @@ Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりま�
 - :tv: [Anitopia](https://twitter.com/anitopia_me)
   - 2021年8月～
   - システムの設計、開発、企画など全般
+- :sushi: [N-Point](https://twitter.com/npjpnet)
+  - 2019年12月～2021年5月、2022年3月～
+  - メンバー
 - :tada: [N-Pla](https://twitter.com/npla_jp)
   - 2021年4月～
   - Webサイトのデザイン など
 
 ### 過去に所属していた団体
 
-- [N-Point](https://npjp.net)
-  - メンバー
 - マイフェス2020実行委員会
   - 運営支援、Webサイト管理、Twitter広報、アプリケーション開発・運用 など
   - 現在の「マイフェス実行委員会」とは無関係です
