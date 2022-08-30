@@ -49,7 +49,7 @@ Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりま�
 高校の部活動にてキーボードパートを担当、バンドとして県大会・全国大会等に出場させていただいておりました。  
 習い事としてのピアノは大学進学のタイミングで辞めてしまいましたが、音楽は引き続きやってます。
 
-### :clapper: 動画編集 / Aviutl, OBS
+### :clapper: 動画編集・配信 / Aviutl, OBS
 自身の活動の一つとしてYoutubeへの動画投稿・ゲームや弾き語りの配信をしています。
 
 ## Belongs
@@ -75,6 +75,9 @@ Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりま�
 - :tada: [N-Pla](https://twitter.com/npla_jp)
   - 2021年4月～
   - Webサイトのデザイン など
+- :video_game: [DENDAI e-sports](https://twitter.com/DENDAI_esports)
+  - 2022年4月～
+  - 配信オペレーション、オブザーバー、広報画像作成 など
 
 ### 過去に所属していた団体
 
