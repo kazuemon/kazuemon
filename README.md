@@ -100,9 +100,9 @@ Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりま�
 - Twitter
   - 本アカウント: [@kazuemon_0602](https://twitter.com/kazuemon_0602)
   - 個人サークル: [@k6n_jp](https://twitter.com/k6n_jp)
-- Discord かずえもん#0602
-- VRChat [kazuemon](https://vrchat.com/home/user/usr_be39f633-be50-4216-9e9d-349a280f3214)
-- Youtube [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
-- Misskey [@kazuemon](https://misskey.io/@kazuemon)
-- Blog [かずえ日誌](https://kazuemon.hatenablog.jp)
-- Wantedly [@kazuemon](https://www.wantedly.com/id/kazuemon)
+- Discord: かずえもん#0602
+- VRChat: [kazuemon](https://vrchat.com/home/user/usr_be39f633-be50-4216-9e9d-349a280f3214)
+- Youtube: [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
+- Misskey: [@kazuemon](https://misskey.io/@kazuemon)
+- Blog: [かずえ日誌](https://kazuemon.hatenablog.jp)
+- Wantedly: [@kazuemon](https://www.wantedly.com/id/kazuemon)
