@@ -29,55 +29,58 @@
 
 ## Skills
 
+基本何でも屋なので、言われたことは大体できます。
+
 ### :computer: Webアプリケーション開発
 自身のポートフォリオサイトや所属グループのサービスを現在制作中。  
-2022年からバックエンドも触り始めて、最近は GraphQL も学習しています。  
+2022年からバックエンドも触り始めて、最近は GraphQL も触ったりしています。  
 Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりました。
 
 - 言語
   - TypeScript / JavaScript
 - ライブラリ
   - フロントエンド: Next.js(React), HTML, CSS
-  - バックエンド: frourio, Prisma
+  - バックエンド: frourio, Prisma, blitz.js, trpc など
 
 ### :level_slider: ステージPA・音響
 高校の部活動にてPA長、文化祭ライブと後夜祭ライブにて機材配線・PAオペレーションを担当。  
-大学でも放送委員会で音響班長を担当しています。
-  
+大学では放送委員会で委員長と音響、システム管理を担当しています。  
+(2年次は音響班長とシステム管理局長)
+
 ### :musical_score: ピアノ・キーボード・耳コピ
 一応3歳よりピアノを習っていますが、楽譜を早く読むのは苦手で、耳コピやコード進行を中心に学習中。  
 高校の部活動にてキーボードパートを担当、バンドとして県大会・全国大会等に出場させていただいておりました。  
 習い事としてのピアノは大学進学のタイミングで辞めてしまいましたが、音楽は引き続きやってます。
 
-### :clapper: 動画編集・配信 / Aviutl, OBS
-自身の活動の一つとしてYoutubeへの動画投稿・ゲームや弾き語りの配信をしています。
+### :clapper: 動画配信 / OBS
+Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オペレーション、画面構成に必要なアプリケーションの開発などをしています。
 
 ## Belongs
 
-- :video_game: [SuperStarMine](https://superstarmine.com)
-  - 2021年4月～
-  - Webサイトのデザイン など
-- :level_slider: [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
-  - 2021年4月～
-  - 音響班長、システム管理担当
-- :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
-  - 2020年12月～
-  - モデレーター、Webサイト管理、イベント企画など
-- :office: [obniz Inc.](https://obniz.com/)
-  - 2021年8月～
-  - 学生アルバイト
 - :tv: [Anitopia](https://twitter.com/anitopia_me)
   - 2021年8月～
   - システムの設計、開発、企画など全般
+- :level_slider: [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
+  - 2021年4月～
+  - 音響班長、システム管理担当
+- :office: [obniz Inc.](https://obniz.com/)
+  - 2021年8月～
+  - 学生アルバイト
+- :video_game: [SuperStarMine](https://superstarmine.com)
+  - 2021年4月～
+  - Webサイトのデザイン など
+- :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
+  - 2020年12月～
+  - モデレーター、Webサイト管理、イベント企画など
+- :video_game: [DENDAI e-sports](https://twitter.com/DENDAI_esports)
+  - 2022年4月～
+  - 配信オペレーション、オブザーバー、広報画像作成 など
 - :sushi: [N-Point](https://twitter.com/npjpnet)
   - 2019年12月～2021年5月、2022年3月～
   - メンバー
 - :tada: [N-Pla](https://twitter.com/npla_jp)
   - 2021年4月～
   - Webサイトのデザイン など
-- :video_game: [DENDAI e-sports](https://twitter.com/DENDAI_esports)
-  - 2022年4月～
-  - 配信オペレーション、オブザーバー、広報画像作成 など
 
 ### 過去に所属していた団体
 
@@ -87,13 +90,8 @@ Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりま�
 
 ## Works
 
-- ボーイスカウトで所属している団のホームページ運用担当 (2018年初旬〜) 
-- 同人イベント「マイフェス2020」 企画総括・プロジェクトマネージャー (2020/07～2020/09)
-- 同人イベント「マイフェス2020」 広報メンバーとしてWebサイトの制作・運用 (2020/07〜2020/12)
-- 同人イベント「マイフェス2020」 電子チケットWebアプリケーション デザイン・開発・運用 (2020/12)
-  - [記事書きました](https://qiita.com/kazuemon/items/9b6436b01e155151b3d1)
-- アニメーターによる作画のバトルロワイヤル「作画王」 応募/審査システム デザイン・開発・運用 (2021/12～) 🆕
-  - [公式Twitterアカウント](https://twitter.com/SakugaKing)
+現在整理中です。  
+(暫定的には README 下部の Wantedly からご確認ください。)
 
 ## SNS / Contact
 
