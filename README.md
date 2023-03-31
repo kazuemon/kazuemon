@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/Youtube-%E3%81%8B%E3%81%9A%E3%81%88%E3%82%82%E3%82%93%20/%20Kazuemon-FF0000.svg?logo=youtube&style=for-the-badge)](https://youtube.com/c/kazuemon)
 ![Discord](https://img.shields.io/badge/Discord-%E3%81%8B%E3%81%9A%E3%81%88%E3%82%82%E3%82%93%230602-7289DA.svg?logo=discord&style=for-the-badge)
 
-なんでも屋の大学2年生です。
+なんでも屋の大学3年生です。
 
 [![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
