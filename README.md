@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/TWITTER-@kazuemon__0602-1DA1F2.svg?logo=twitter&style=for-the-badge)](https://twitter.com/kazuemon_0602)
 [![Youtube](https://img.shields.io/badge/Youtube-%E3%81%8B%E3%81%9A%E3%81%88%E3%82%82%E3%82%93%20/%20Kazuemon-FF0000.svg?logo=youtube&style=for-the-badge)](https://youtube.com/c/kazuemon)
-![Discord](https://img.shields.io/badge/Discord-%E3%81%8B%E3%81%9A%E3%81%88%E3%82%82%E3%82%93%230602-7289DA.svg?logo=discord&style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord-kazuemon-7289DA.svg?logo=discord&style=for-the-badge)
 
 なんでも屋の大学3年生です。
 
@@ -98,7 +98,10 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
 - Twitter
   - 本アカウント: [@kazuemon_0602](https://twitter.com/kazuemon_0602)
   - 個人サークル: [@k6n_jp](https://twitter.com/k6n_jp)
-- Discord: かずえもん#0602
+- Discord
+  - メイン: kazuemon (旧: かずえもん#0602)
+  - サブ: サブえもん#2799 (配信/その他テスト用)
+  - サブサブ: サブサブえもん#6063 (配信/その他テスト用)
 - VRChat: [kazuemon](https://vrchat.com/home/user/usr_be39f633-be50-4216-9e9d-349a280f3214)
 - Youtube: [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
 - Misskey: [@kazuemon](https://misskey.io/@kazuemon)
