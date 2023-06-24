@@ -62,7 +62,8 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
   - システムの設計、開発、企画など全般
 - :level_slider: [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
   - 2021年4月～
-  - 音響班長、システム管理担当
+  - 委員長 (2023年度)
+    - (2022年度: 音響班長、システム管理局長)
 - :office: [obniz Inc.](https://obniz.com/)
   - 2021年8月～
   - 学生アルバイト
@@ -90,8 +91,7 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
 
 ## Works
 
-現在整理中です。  
-(暫定的には README 下部の Wantedly からご確認ください。)
+README 下部の Wantedly からご確認ください。
 
 ## SNS / Contact
 
@@ -99,9 +99,9 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
   - 本アカウント: [@kazuemon_0602](https://twitter.com/kazuemon_0602)
   - 個人サークル: [@k6n_jp](https://twitter.com/k6n_jp)
 - Discord
-  - メイン: kazuemon (旧: かずえもん#0602)
-  - サブ: サブえもん#2799 (配信/その他テスト用)
-  - サブサブ: サブサブえもん#6063 (配信/その他テスト用)
+  - メイン: @kazuemon (旧: かずえもん#0602)
+  - サブ: @kazuemon.sub1 (旧: サブえもん#2799) (配信/その他テスト用)
+  - サブサブ: @kazuemon.sub2 (旧: サブサブえもん#6063) (配信/その他テスト用)
 - VRChat: [kazuemon](https://vrchat.com/home/user/usr_be39f633-be50-4216-9e9d-349a280f3214)
 - Youtube: [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
 - Misskey: [@kazuemon](https://misskey.io/@kazuemon)
