@@ -104,6 +104,8 @@ README 下部の Wantedly からご確認ください。
   - サブサブ: @kazuemon.sub2 (旧: サブサブえもん#6063) (配信/その他テスト用)
 - VRChat: [kazuemon](https://vrchat.com/home/user/usr_be39f633-be50-4216-9e9d-349a280f3214)
 - Youtube: [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
-- Misskey: [@kazuemon](https://misskey.io/@kazuemon)
+- Misskey
+  - Misskey.io: [kazuemon@misskey.io](https://misskey.io/@kazuemon)
+  - DENDAIJIN: [kazuemon@dendai.app](https://dendai.app/@kazuemon)
 - Blog: [かずえ日誌](https://kazuemon.hatenablog.jp)
 - Wantedly: [@kazuemon](https://www.wantedly.com/id/kazuemon)
