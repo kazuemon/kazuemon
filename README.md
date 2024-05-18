@@ -6,7 +6,8 @@
 
 なんでも屋の大学4年生です。
 
-[![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/nord_bright/4-productive-time.svg)
 
 ## Profile
 
