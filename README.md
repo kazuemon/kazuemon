@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/Youtube-%E3%81%8B%E3%81%9A%E3%81%88%E3%82%82%E3%82%93%20/%20Kazuemon-FF0000.svg?logo=youtube&style=for-the-badge)](https://youtube.com/c/kazuemon)
 ![Discord](https://img.shields.io/badge/Discord-kazuemon-7289DA.svg?logo=discord&style=for-the-badge)
 
-なんでも屋の大学4年生です。
+なんでも屋です。
 
 [![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/nord_bright/4-productive-time.svg)
@@ -13,7 +13,7 @@
 
 - 男👨
 - 2002年6月2日 生まれ
-- 東京電機大学 工学部 情報通信工学科(EC科) 21期生
+- 東京電機大学 工学部 情報通信工学科卒 (21期生)
 - 神奈川県在住
 - オタク
   - バンドリ (2018/02～)
@@ -45,7 +45,7 @@ Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりま�
 
 ### :level_slider: ステージPA・音響
 高校の部活動にてPA長、文化祭ライブと後夜祭ライブにて機材配線・PAオペレーションを担当。  
-大学では放送委員会に所属して各種オペレーションを行っています。
+大学では放送委員会に所属して各種オペレーションを行っていました。
 
 ### :musical_score: ピアノ・キーボード・耳コピ
 一応3歳よりピアノを習っていますが、楽譜を早く読むのは苦手で、耳コピやコード進行を中心に学習中。  
@@ -57,42 +57,36 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
 
 ## Belongs
 
+- :badminton: [まいばどすたっふ](https://x.com/mcbad_staff)
+  - 2024年6月～ （マイクラバドミントンには 2020年12月～ より参画）
+  - ゲーム外システム開発・インフラチーム リーダー
 - :tv: [Anitopia](https://twitter.com/anitopia_me)
-  - 2021年8月～
+  - 立案: 2021年8月
   - システムの設計、開発、企画など全般
 - :level_slider: [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
   - 2021年4月～
     - 2年次: 音響班長, システム管理局
     - 3年次: 委員長
     - 4年次: システム管理局
-- :office: [obniz Inc.](https://obniz.com/)
-  - 2021年8月～
-  - 学生アルバイト
+    - 引き継ぎ・システムサポートのみ継続中
 - :video_game: [SuperStarMine](https://superstarmine.com)
   - 2021年4月～
   - Webサイトのデザイン など
 - :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
   - 2020年12月～
   - モデレーター、Webサイト管理、イベント企画など
-- :video_game: [DENDAI e-sports](https://twitter.com/DENDAI_esports)
-  - 2022年4月～
-  - 配信オペレーション、オブザーバー、広報画像作成 など
 - :sushi: [N-Point](https://twitter.com/npjpnet)
   - 2019年12月～2021年5月、2022年3月～
   - メンバー
-- :tada: [N-Pla](https://twitter.com/npla_jp)
-  - 2021年4月～
-  - Webサイトのデザイン など
+ 
+### Formerly
 
-### 過去に所属していた団体
-
+- :video_game: [DENDAI e-sports](https://twitter.com/DENDAI_esports)
+  - 2022年4月～2025年3月
+  - 配信オペレーション、オブザーバー、広報画像作成 など
 - マイフェス2020実行委員会
   - 運営支援、Webサイト管理、Twitter広報、アプリケーション開発・運用 など
   - 現在の「マイフェス実行委員会」とは無関係です
-
-## Works
-
-README 下部の Wantedly からご確認ください。
 
 ## SNS / Contact
 
