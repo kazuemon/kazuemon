@@ -82,7 +82,7 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
     - 3年次: 委員長
     - 4年次: システム管理局
     - 一部引き継ぎ・システムサポートのみ継続中
-- :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
+- :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.github.io/)
   - 2020年12月～2025年3月
   - モデレーター、Webサイト管理、イベント企画など
 - マイフェス2020実行委員会
