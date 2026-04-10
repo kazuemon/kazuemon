@@ -33,15 +33,16 @@
 基本何でも屋なので、言われたことは大体できます。
 
 ### :computer: Webアプリケーション開発
-自身のポートフォリオサイトや所属グループのサービスを現在制作中。  
-2022年からバックエンドも触り始めて、最近は GraphQL も触ったりしています。  
-Nuxt.js(Vue.js) も触っていましたが、Next.js がメインになりました。
+主には Web サービス開発をやっています。
+Nuxt.js(Vue.js) も触っていましたが、React がメインになりました。
 
 - 言語
   - TypeScript / JavaScript
+  - Ruby
 - ライブラリ
   - フロントエンド: Next.js(React), HTML, CSS
-  - バックエンド: frourio, Prisma, blitz.js, trpc など
+  - バックエンド: Hono, Nestjs, frourio, Prisma, blitz.js, trpc, Rails など
+  - その他: GraphQL, connectrpc など
 
 ### :level_slider: ステージPA・音響
 高校の部活動にてPA長、文化祭ライブと後夜祭ライブにて機材配線・PAオペレーションを担当。  
@@ -59,22 +60,13 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
 
 - :badminton: [まいばどすたっふ](https://x.com/mcbad_staff)
   - 2024年6月～ （マイクラバドミントンには 2020年12月～ より参画）
-  - ゲーム外システム開発・インフラチーム リーダー
+  - ディレクター（組織管理） 兼 ゲーム外システム開発・インフラチーム リーダー
 - :tv: [Anitopia](https://twitter.com/anitopia_me)
   - 立案: 2021年8月
   - システムの設計、開発、企画など全般
-- :level_slider: [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
-  - 2021年4月～
-    - 2年次: 音響班長, システム管理局
-    - 3年次: 委員長
-    - 4年次: システム管理局
-    - 引き継ぎ・システムサポートのみ継続中
 - :video_game: [SuperStarMine](https://superstarmine.com)
   - 2021年4月～
   - Webサイトのデザイン など
-- :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
-  - 2020年12月～
-  - モデレーター、Webサイト管理、イベント企画など
 - :sushi: [N-Point](https://twitter.com/npjpnet)
   - 2019年12月～2021年5月、2022年3月～
   - メンバー
@@ -84,6 +76,15 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
 - :video_game: [DENDAI e-sports](https://twitter.com/DENDAI_esports)
   - 2022年4月～2025年3月
   - 配信オペレーション、オブザーバー、広報画像作成 など
+- :level_slider: [東京電機大学東京千住キャンパス放送委員会](https://tbc1010.com/)
+  - 2021年4月～2025年3月
+    - 2年次: 音響班長, システム管理局
+    - 3年次: 委員長
+    - 4年次: システム管理局
+    - 一部引き継ぎ・システムサポートのみ継続中
+- :speech_balloon: [TDU21 非公式Discordキャンパス](https://tdu21-discord.org/)
+  - 2020年12月～2025年3月
+  - モデレーター、Webサイト管理、イベント企画など
 - マイフェス2020実行委員会
   - 運営支援、Webサイト管理、Twitter広報、アプリケーション開発・運用 など
   - 現在の「マイフェス実行委員会」とは無関係です
@@ -101,6 +102,9 @@ Youtubeでのゲームや弾き語りの配信や e-sports 大会等の配信オ
 - Youtube: [かずえもん / kazuemon](https://youtube.com/c/kazuemon)
 - Misskey
   - Misskey.io: [kazuemon@misskey.io](https://misskey.io/@kazuemon)
-  - DENDAIJIN: [kazuemon@dendai.app](https://dendai.app/@kazuemon)
+  - DENDAIJIN: [kazuemon@dendaijin.com](https://dendaijin.com/@kazuemon)
+- mixi2: [@kazuemon](https://mixi.social/@kazuemon)
 - Blog: [かずえ日誌](https://kazuemon.hatenablog.jp)
 - Wantedly: [@kazuemon](https://www.wantedly.com/id/kazuemon)
+- Other Platforms
+  - Karotter: [@kazuemon](https://karotter.com/profile/kazuemon)
