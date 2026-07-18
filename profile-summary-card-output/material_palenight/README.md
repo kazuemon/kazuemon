@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/kazuemon/kazuemon/master/profile-summary-card-output/material_palenight/2-most-commit-language.svg)
-```
-
-    
